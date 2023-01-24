@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ballroom",
+    "description": "💃You stumble upon a ballroom ! What a beautiful chandelier !",
+    "rarity": 2
+  },
+  {
+    "id": 2,
+    "name": "Cupboard",
+    "requirement": "🔦This door is a cupboard. Nothing to see here...",
+    "rarity": 1
+  }
+  {
+    "id": 3,
+    "name": "Treasure Room",
+    "requirement": "💎You enter the treasure room. Ohhhhhh !",
+    "rarity": 1
+  }
+]
