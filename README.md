@@ -11,6 +11,4 @@ Facing an ennemy, you can **attack**, **heal**, **escape** or **protect**.
 
 Install npm dependencies with npm install, compile the project with npm run build, and launch the hyrule_castle.js file from the build/main folder.
 
-Enjoy !
-
-Benjamin Solano
+Play !
